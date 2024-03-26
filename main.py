@@ -50,7 +50,7 @@ def replace_splashes_txt(temp_dir):
                     print(f"Error replacing splashes.txt at {splashes_file_path}: {e}")
 
 def main():
-    minecraft_directory = input("Enter the location of Minecraft directory: ")
+    minecraft_directory = input("Enter the location of Minecraft versions directory: ")
     for root, _, files in os.walk(minecraft_directory):
         for file in files:
             if file.endswith('.jar'):
