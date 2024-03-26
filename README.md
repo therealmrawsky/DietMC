@@ -9,8 +9,6 @@ To use DietMC, follow these steps:
 
 1.  **Clone the repository:**
     
-    bash
-    
 
 -   `git clone https://github.com/yourusername/DietMC.git` 
     
@@ -23,8 +21,6 @@ To use DietMC, follow these steps:
 -   **Run the script:**
     
     Navigate to the directory where you cloned the repository and run the main script:
-    
-    bash
     
 
 1.  `cd DietMC
